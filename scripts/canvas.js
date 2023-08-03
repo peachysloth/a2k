@@ -33,8 +33,8 @@ const PYRAMID_PADDING_Y = 65;
 const HEADER_HEIGHT = 60;
 const HEADER_MARGIN = HEADER_HEIGHT + PYRAMID_PADDING_Y / 2;
 const HEADER_IMG = "assets/header.png?202102042312"
-const PYRAMID_ROWS = [1, 2, 3, 5];
-const PYRAMID_MAX = 11; // sum of PYRAMID_ROWS
+const PYRAMID_ROWS = [1, 3, 5];
+const PYRAMID_MAX = 9; // sum of PYRAMID_ROWS
 const CODE_PARAM = "r";
 
 const FONT_DEFAULT = "'Noto Sans JP', 'Open Sans', sans-serif";

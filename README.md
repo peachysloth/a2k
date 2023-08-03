@@ -21,4 +21,5 @@ https://boysplanet-a.github.io
 
 * @produce48
 * @producex101
-* @procude101japan
+* @produce101japan
+* @boysplanet-a

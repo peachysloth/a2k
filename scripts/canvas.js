@@ -26,7 +26,7 @@ const ICON_LINE_COLOR = {
 }
 const ICON_RANK_FONT_SIZE = 10;
 const ICON_RANK_FONT_COLOR = "#fff";
-const ICON_RANK_BG_COLOR = "#d82f8a";
+const ICON_RANK_BG_COLOR = "#e66ab4";
 const ICON_RANK_NAME_SIZE = 11;
 const PYRAMID_PADDING_X = 30;
 const PYRAMID_PADDING_Y = 30;

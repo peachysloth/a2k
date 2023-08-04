@@ -1,5 +1,5 @@
 const MEMBER_FILE = {
-  default: "trainee_info.ko.csv",
+  default: "trainee_info.en.csv",
   ja : "trainee_info.ja.csv",
   en : "trainee_info.en.csv",
   "zh-CN": "trainee_info.zh-CN.csv",

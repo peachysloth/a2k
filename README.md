@@ -1,4 +1,4 @@
-https://boysplanet-a.github.io
+https://peachysloth.github.io/a2k/
 
 #### csv info
 

@@ -76,7 +76,7 @@ function getTableEntryHTML(trainee, selected) {
         <span class="name sub">${trainee.company}</span>
       </div>
       <div class="info">
-        <span class="name sub">${trainee.birth} ${trainee.birthplace} ${trainee.height}cm <i class="fa-solid fa-up-right-from-square"></i>
+        <span class="name sub">${trainee.birth} ${trainee.birthplace}
 </a> </span>
       </div>
     </div>

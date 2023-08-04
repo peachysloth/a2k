@@ -22,7 +22,7 @@ const ICON_LINE_COLOR = {
      f: "#a6a6a4",
      n: "#707070",
      KOR: "#53a4fa",
-     GLO: "#d74194"
+     GLO: "#e66ab4"
 }
 const ICON_RANK_FONT_SIZE = 10;
 const ICON_RANK_FONT_COLOR = "#fff";

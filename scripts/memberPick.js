@@ -131,19 +131,19 @@ function setPickToCookie(code){
 }
 
 function addEventToTools(trainees){
-  document.getElementById("button__sortAZ").onclick =
+  document.getElementById("button__sort19").onclick =
     () => {
       sortOrder = getSortOrder(trainees, "id", false);
       renderBox(trainees, picks);
-      document.getElementById("button__sort19").classList.remove('active');
-      document.getElementById("button__sortAZ").classList.add('active');
+      document.getElementById("button__sortAZ").classList.remove('active');
+      document.getElementById("button__sort19").classList.add('active');
     }
-  document.getElementById("button__sort19").onclick =
+  document.getElementById("button__sortAZ").onclick =
     () => {
       sortOrder = getSortOrder(trainees, "rank", false);
       renderBox(trainees, picks);
-      document.getElementById("button__sort19").classList.add('active');
-      document.getElementById("button__sortAZ").classList.remove('active');
+      document.getElementById("button__sortAZ").classList.add('active');
+      document.getElementById("button__sort19").classList.remove('active');
     }
   document.getElementById("button__filter").onclick =
     () => {
@@ -170,7 +170,7 @@ function addEventToTools(trainees){
     }
 
   // init
-  document.getElementById("button__sortAZ").classList.add('active');
+  document.getElementById("button__sort19").classList.add('active');
   if(showEliminated){
     document.getElementById("button__filter").classList.add('active');
   }

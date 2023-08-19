@@ -2,7 +2,7 @@ let showEliminated = true;
 let showTop11 = false;
 let sortOrder;
 
-const URL_PREFIX = "https://boysplanet-a.github.io/?r=";
+const URL_PREFIX = "https://peachysloth.github.io/a2k/?r=";
 const CHECKED_CLASS = "trainee_picker__container__entry-check";
 const CHECKED_IMAGE = `<img class="${CHECKED_CLASS}" src="assets/check.png"/>`;
 const C_COOKIE_NAME = 'c';
